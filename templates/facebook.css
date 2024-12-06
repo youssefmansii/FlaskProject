@@ -1,0 +1,45 @@
+body {
+    box-sizing: border-box;
+
+}
+
+.main {
+    align-items: center;
+}
+
+.fb_l {
+    color: blue;
+    font-size: 60px;
+    letter-spacing: 2px;
+}
+
+.fb_s {
+    font-size: 27.2px;
+    color: #6e6d6d;
+    font-family: Helvetica, sans-serif;
+}
+
+.bt {
+    padding-left: 6.5em;
+    padding-right: 6.5em;
+    margin-top: 1em;
+}
+
+.forgot {
+    color: #1877F2;
+    font: 16px helvetica, sans-serif;
+
+}
+
+.c1 {
+    box-shadow: -20px -3em 3em rgba(0, 0, 0, 0.175);
+    ;
+}
+
+.bt_color {
+    background-color: #198754;
+}
+
+.card_main {
+    transform: translate(-50%, -55%);
+}
